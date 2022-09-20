@@ -1,3 +1,3 @@
-**Static Website integration**
-*Mini project using html,css, bootstrap to create and integrate a static website.*
-:space_invader: Click the link to view the [project](viswajith.ccbp.tech/)
+**Static Website integration**<br/>
+*Mini project using HTML , CSS, BOOTSTRAP to create and integrate a static website.*<br/>
+:eye_speech_bubble: Click the link to view the [project](viswajith.ccbp.tech/)
